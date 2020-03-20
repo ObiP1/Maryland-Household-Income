@@ -1,7 +1,7 @@
-FIPS,ST_NAME,COUNTY_NAME
-24001,Maryland,Allegany County	
-24003,Maryland,Anne Arundel County	
-24005,Maryland,Baltimore County	
+FIPS,ST_NAME,COUNTY_NAME,MEDIAN_INCOME
+24001,Maryland,Allegany County,$39,794
+24003,Maryland,Anne Arundel County,$89,031
+24005,Maryland,Baltimore County,
 24009,Maryland,Calvert County	
 24011,Maryland,Caroline County	
 24013,Maryland,Carroll County	
@@ -11,7 +11,7 @@ FIPS,ST_NAME,COUNTY_NAME
 24021,Maryland,Frederick County	
 24023,Maryland,Garrett County	
 24025,Maryland,Harford County	
-24027,Maryland,Howard County	
+24027,Maryland,Howard County,$110,133	
 24029,Maryland,Kent County	
 24031,Maryland,Montgomery County	
 24033,Maryland,Prince George's County	
