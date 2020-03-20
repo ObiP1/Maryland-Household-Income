@@ -1,25 +1,25 @@
 FIPS,ST_NAME,COUNTY_NAME,MEDIAN_INCOME
 24001,Maryland,Allegany County,$39794
 24003,Maryland,Anne Arundel County,$89031
-24005,Maryland,Baltimore County,
-24009,Maryland,Calvert County	
-24011,Maryland,Caroline County	
-24013,Maryland,Carroll County	
-24015,Maryland,Cecil County	
-24017,Maryland,Charles County
-24019,Maryland,Dorchester County	
-24021,Maryland,Frederick County	
-24023,Maryland,Garrett County	
-24025,Maryland,Harford County	
+24005,Maryland,Baltimore County,$66940
+24009,Maryland,Calvert County,$95425
+24011,Maryland,Caroline County,$55605
+24013,Maryland,Carroll County,$85532	
+24015,Maryland,Cecil County,$65124
+24017,Maryland,Charles County,$91910
+24019,Maryland,Dorchester County,$45628
+24021,Maryland,Frederick County,$84480	
+24023,Maryland,Garrett County,$46096	
+24025,Maryland,Harford County,$81016	
 24027,Maryland,Howard County,$110133	
-24029,Maryland,Kent County	
-24031,Maryland,Montgomery County	
-24033,Maryland,Prince George's County	
-24035,Maryland,Queen Anne's County	
-24037,Maryland,St. Mary's County
-24039,Maryland,Somerset County	
-24041,Maryland,Talbot County	
-24043,Maryland,Washington County	
-24045,Maryland,Wicomico County	
-24047,Maryland,Worcester County	
-24510,Maryland,Baltimore City	
+24029,Maryland,Kent County,$58201
+24031,Maryland,Montgomery County,$98704	
+24033,Maryland,Prince George's County,$73856	
+24035,Maryland,Queen Anne's County,$86406	
+24037,Maryland,St. Mary's County,$88190
+24039,Maryland,Somerset County,$36716
+24041,Maryland,Talbot County,$58,495
+24043,Maryland,Washington County,$56477
+24045,Maryland,Wicomico County,$52301
+24047,Maryland,Worcester County,$58820
+24510,Maryland,Baltimore City,$41819
