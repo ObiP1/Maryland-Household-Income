@@ -1,4 +1,4 @@
-FIPS,STNAME,COUNTYNAME
+FIPS,ST_NAME,COUNTY_NAME
 24001,Maryland,Allegany County	
 24003,Maryland,Anne Arundel County	
 24005,Maryland,Baltimore County	
@@ -22,4 +22,4 @@ FIPS,STNAME,COUNTYNAME
 24043,Maryland,Washington County	
 24045,Maryland,Wicomico County	
 24047,Maryland,Worcester County	
-24510,Maryland,Baltimore city	
+24510,Maryland,Baltimore City	
