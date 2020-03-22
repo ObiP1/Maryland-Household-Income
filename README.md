@@ -6,6 +6,6 @@ The program was created using Jupyter with python code. Copy & paste the code an
 Relevant Files:
 1) DataTable.csv - Data Table created to hold information (FIPS, State name, county name, median income) in order to create our map.
 
-2)Code.py - Python code used to create map.
+2) Code.py - Python code used to create map.
 
 3)
