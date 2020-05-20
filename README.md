@@ -9,3 +9,19 @@ Relevant Files:
 2) Code.py - Python code used to create map.
 
 3) Visualization of map.png - Screenshot of the Map.
+
+
+**STEP 1)**
+
+Set up your imports. There is a username and API parameter that must be filled in as well.
+
+![ChloroImports](https://user-images.githubusercontent.com/60532479/82475375-68ac8800-9a9a-11ea-9c1a-9cbe0546d334.png)
+
+
+**STEP 2)**
+
+Set the scope and pull data from csv file which is attached as a file in this repository.
+
+
+
+
