@@ -22,6 +22,13 @@ Set up your imports. There is a username and API parameter that must be filled i
 
 Set the scope and pull data from csv file which is attached as a file in this repository.
 
+![ScopeChloro](https://user-images.githubusercontent.com/60532479/82477114-f7ba9f80-9a9c-11ea-9e92-37eefed67757.png)
+
+
+**STEP 3)**
+
+
+
 
 
 
