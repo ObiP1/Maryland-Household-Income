@@ -29,6 +29,13 @@ Set the scope and pull data from csv file which is attached as a file in this re
 
 Create a new dataframe function while using Panda's "isin()" function to filter the dataframe. Add Median Income and the FIPS code to the list of what will be displayed for each county.
 
+![Chloro2](https://user-images.githubusercontent.com/60532479/82478304-bc20d500-9a9e-11ea-919a-0b157666d592.png)
+
+
+**STEP 4)**
+
+
+
 
 
 
