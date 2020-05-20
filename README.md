@@ -38,6 +38,9 @@ Edit, label, and create the chloropleth map.
 
 ![Chloro3](https://user-images.githubusercontent.com/60532479/82479012-c7283500-9a9f-11ea-9a3a-9bc96eee2986.png)
 
+![Chloro4](https://user-images.githubusercontent.com/60532479/82479433-61887880-9aa0-11ea-99ad-56c4bd2869ed.png)
+
+
 
 
 
