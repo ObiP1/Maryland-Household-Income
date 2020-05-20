@@ -36,6 +36,10 @@ Create a new dataframe function while using Panda's "isin()" function to filter 
 
 Edit, label, and create the chloropleth map.
 
+![Chloro3](https://user-images.githubusercontent.com/60532479/82479012-c7283500-9a9f-11ea-9a3a-9bc96eee2986.png)
+
+
+
 
 
 
